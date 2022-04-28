@@ -79,19 +79,15 @@ Example of k-NN classification. The test sample (green dot) should be classified
 ```html
     > python train.py
 ```
-#### ( After the model training  pickle file will be genrated which can later be used for inference )
+#### ( After the model training  pickle file will be generated which can later be used for inference )
 [Back To The Top](#read-me-template)
 
 ---
 
 ## References
 
-You only look once (YOLO) is a state-of-the-art, real-time object detection system.
-[YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
-
- Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT)is an extention to SORT algorithm to integrate appearance information based on a deep appearance descriptor.[Deep SORT](https://github.com/nwojke/deep_sort)
-
-
+MediaPipe offers cross-platform, customizable ML solutions for live and streaming media.
+[MediaPipe](https://google.github.io/mediapipe/solutions/hands.html)
 
 [Back To The Top](#read-me-template)
 
